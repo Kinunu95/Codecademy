@@ -1,2 +1,2 @@
-Hello Git and GitHub
-I'm new to all of this so just trying to get a grip of it and get my feet wet I guess.
+Hello GitHub
+I'm new to this but eventually I'll be old to this?..
